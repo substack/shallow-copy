@@ -2,6 +2,10 @@
 
 make a shallow copy of an object or array
 
+[![testling badge](https://ci.testling.com/substack/shallow-copy.png)](https://ci.testling.com/substack/shallow-copy)
+
+[![build status](https://secure.travis-ci.org/substack/shallow-copy.png)](http://travis-ci.org/substack/shallow-copy)
+
 # example
 
 you can copy objects shallowly:
