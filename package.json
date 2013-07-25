@@ -1,6 +1,6 @@
 {
   "name": "shallow-copy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "make a shallow copy of an object or array",
   "main": "index.js",
   "dependencies": {},
