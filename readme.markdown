@@ -1,6 +1,6 @@
 # shallow-copy
 
-make a shallow copy of an object
+make a shallow copy of an object or array
 
 # example
 
